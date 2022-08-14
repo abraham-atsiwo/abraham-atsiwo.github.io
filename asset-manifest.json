@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/abraham-atsiwo.github.io/static/css/main.9b49ec89.css",
-    "main.js": "/abraham-atsiwo.github.io/static/js/main.d7043410.js",
-    "static/media/video.mp4": "/abraham-atsiwo.github.io/static/media/video.5e99e70107e8538462e6.mp4",
-    "static/media/profileImg.jpg": "/abraham-atsiwo.github.io/static/media/profileImg.f335909daffc21a72066.jpg",
-    "static/media/dynamic_dashboard.png": "/abraham-atsiwo.github.io/static/media/dynamic_dashboard.323eb8f1f31aed1c1019.png",
-    "static/media/adaboost_custom_classifier.png": "/abraham-atsiwo.github.io/static/media/adaboost_custom_classifier.933dee30316ac5a017ee.png",
-    "static/media/mailz.jpeg": "/abraham-atsiwo.github.io/static/media/mailz.d13d5e32cbc73884b526.jpeg",
-    "static/media/responsive_portfolio_website.png": "/abraham-atsiwo.github.io/static/media/responsive_portfolio_website.d6c030389768f6cedc3d.png",
-    "static/media/matplotlib.png": "/abraham-atsiwo.github.io/static/media/matplotlib.c88a1f84e136267cd390.png",
-    "static/media/interactive_dashboard.png": "/abraham-atsiwo.github.io/static/media/interactive_dashboard.d253cd6f4909c0d074e0.png",
-    "static/media/sklearn_dashboard.png": "/abraham-atsiwo.github.io/static/media/sklearn_dashboard.57977cbb1ff32ed14ac3.png",
-    "static/media/seaborn_graphing.png": "/abraham-atsiwo.github.io/static/media/seaborn_graphing.8009495eaa1447fe0afb.png",
-    "static/media/todo.png": "/abraham-atsiwo.github.io/static/media/todo.ca82a977afc5ed328e2d.png",
-    "index.html": "/abraham-atsiwo.github.io/index.html",
-    "main.9b49ec89.css.map": "/abraham-atsiwo.github.io/static/css/main.9b49ec89.css.map",
-    "main.d7043410.js.map": "/abraham-atsiwo.github.io/static/js/main.d7043410.js.map"
+    "main.css": "/static/css/main.9b49ec89.css",
+    "main.js": "/static/js/main.b3bbaae6.js",
+    "static/media/video.mp4": "/static/media/video.5e99e70107e8538462e6.mp4",
+    "static/media/profileImg.jpg": "/static/media/profileImg.f335909daffc21a72066.jpg",
+    "static/media/dynamic_dashboard.png": "/static/media/dynamic_dashboard.323eb8f1f31aed1c1019.png",
+    "static/media/adaboost_custom_classifier.png": "/static/media/adaboost_custom_classifier.933dee30316ac5a017ee.png",
+    "static/media/mailz.jpeg": "/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/responsive_portfolio_website.png": "/static/media/responsive_portfolio_website.d6c030389768f6cedc3d.png",
+    "static/media/matplotlib.png": "/static/media/matplotlib.c88a1f84e136267cd390.png",
+    "static/media/interactive_dashboard.png": "/static/media/interactive_dashboard.d253cd6f4909c0d074e0.png",
+    "static/media/sklearn_dashboard.png": "/static/media/sklearn_dashboard.57977cbb1ff32ed14ac3.png",
+    "static/media/seaborn_graphing.png": "/static/media/seaborn_graphing.8009495eaa1447fe0afb.png",
+    "static/media/todo.png": "/static/media/todo.ca82a977afc5ed328e2d.png",
+    "index.html": "/index.html",
+    "main.9b49ec89.css.map": "/static/css/main.9b49ec89.css.map",
+    "main.b3bbaae6.js.map": "/static/js/main.b3bbaae6.js.map"
   },
   "entrypoints": [
     "static/css/main.9b49ec89.css",
-    "static/js/main.d7043410.js"
+    "static/js/main.b3bbaae6.js"
   ]
 }
